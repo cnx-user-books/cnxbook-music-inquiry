@@ -1,0 +1,61 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11455</md:content-id>
+    <md:title>Music Inquiry</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>1ed5d469-623b-4f38-8412-7a7a9fa8ae61</md:uuid>
+<md:slug>music-inquiry</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m45092"/>
+        <col:module document="m45102"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>How to do Music Inquiry</md:title>
+      <col:content>
+        <col:module document="m45070"/>
+        <col:module document="m45130"/>
+        <col:module document="m45650"/>
+        <col:module document="m45651"/>
+        <col:module document="m45655"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cultural Knowledge</md:title>
+      <col:content>
+        <col:module document="m45703"/>
+        <col:module document="m44907"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Aural Knowledge</md:title>
+      <col:content>
+        <col:module document="m43540"/>
+        <col:module document="m45283"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Music Theory</md:title>
+      <col:content>
+        <col:module document="m45711"/>
+        <col:module document="m45091"/>
+        <col:module document="m45964"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Music Literacy</md:title>
+      <col:content>
+        <col:module document="m45668"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Embodied Knowledge</md:title>
+      <col:content/>
+    </col:subcollection>
+  </col:content>
+</col:collection>
